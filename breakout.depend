@@ -1,0 +1,152 @@
+# depslib dependency file v1.0
+1523903254 source:d:\file bai tap\baitap.c\codeblock\breakout\main.cpp
+	<iostream>
+	"game.h"
+
+1520665580 source:d:\file bai tap\baitap.c\codeblock\breakout\base.cpp
+	<SDL.h>
+	"base.h"
+
+1520665573 d:\file bai tap\baitap.c\codeblock\breakout\base.h
+	<SDL.h>
+
+1521030469 d:\file bai tap\baitap.c\codeblock\breakout\game.h
+	"broad.h"
+	"ball.h"
+	"pad.h"
+	"details.h"
+	"loadscreen.h"
+	"getname.h"
+	"endgame.h"
+	<SDL.h>
+	<iostream>
+
+1520680352 d:\file bai tap\baitap.c\codeblock\breakout\broad.h
+	<SDL.h>
+	"base.h"
+
+1520960362 d:\file bai tap\baitap.c\codeblock\breakout\ball.h
+	<SDL.h>
+	"base.h"
+	<iostream>
+
+1519486021 d:\file bai tap\baitap.c\codeblock\breakout\pad.h
+	"base.h"
+	<SDL.h>
+
+1520666539 source:d:\file bai tap\baitap.c\codeblock\breakout\pad.cpp
+	"pad.h"
+	<SDL.h>
+
+1521187684 source:d:\file bai tap\baitap.c\codeblock\breakout\broad.cpp
+	<SDL.h>
+	"broad.h"
+	<random>
+
+1521129779 source:d:\file bai tap\baitap.c\codeblock\breakout\ball.cpp
+	"ball.h"
+	<SDL.h>
+	<math.h>
+
+1522415212 source:d:\file bai tap\baitap.c\codeblock\breakout\game.cpp
+	"game.h"
+	<random>
+	<time.h>
+
+1521004041 source:d:\file bai tap\baitap.c\codeblock\breakout\details.cpp
+	"details.h"
+	<string>
+
+1520996865 d:\file bai tap\baitap.c\codeblock\breakout\details.h
+	"base.h"
+	<SDL_ttf.h>
+	<sstream>
+	<iostream>
+	<string>
+
+1520960417 source:d:\filebaitap\baitap.c\codeblock\breakout\ball.cpp
+	"ball.h"
+	<SDL.h>
+	<math.h>
+
+1520960362 d:\filebaitap\baitap.c\codeblock\breakout\ball.h
+	<SDL.h>
+	"base.h"
+	<iostream>
+
+1520665573 d:\filebaitap\baitap.c\codeblock\breakout\base.h
+	<SDL.h>
+
+1520665580 source:d:\filebaitap\baitap.c\codeblock\breakout\base.cpp
+	<SDL.h>
+	"base.h"
+
+1520680352 source:d:\filebaitap\baitap.c\codeblock\breakout\broad.cpp
+	<SDL.h>
+	"broad.h"
+	<random>
+
+1520680352 d:\filebaitap\baitap.c\codeblock\breakout\broad.h
+	<SDL.h>
+	"base.h"
+
+1520964584 source:d:\filebaitap\baitap.c\codeblock\breakout\details.cpp
+	"details.h"
+	<string>
+
+1520963897 d:\filebaitap\baitap.c\codeblock\breakout\details.h
+	"base.h"
+	<SDL_ttf.h>
+	<sstream>
+	<iostream>
+	<string>
+
+1520962216 source:d:\filebaitap\baitap.c\codeblock\breakout\game.cpp
+	"game.h"
+	<random>
+	<time.h>
+
+1520960686 d:\filebaitap\baitap.c\codeblock\breakout\game.h
+	"broad.h"
+	"ball.h"
+	"pad.h"
+	"details.h"
+	<SDL.h>
+	<iostream>
+
+1519486021 d:\filebaitap\baitap.c\codeblock\breakout\pad.h
+	"base.h"
+	<SDL.h>
+
+1520681413 source:d:\filebaitap\baitap.c\codeblock\breakout\main.cpp
+	<iostream>
+	"game.h"
+
+1520666539 source:d:\filebaitap\baitap.c\codeblock\breakout\pad.cpp
+	"pad.h"
+	<SDL.h>
+
+1521030170 source:d:\file bai tap\baitap.c\codeblock\breakout\loadscreen.cpp
+	"loadscreen.h"
+
+1521020124 d:\file bai tap\baitap.c\codeblock\breakout\loadscreen.h
+	"base.h"
+
+1521030409 source:d:\file bai tap\baitap.c\codeblock\breakout\getname.cpp
+	"getname.h"
+
+1521030416 d:\file bai tap\baitap.c\codeblock\breakout\getname.h
+	"base.h"
+	<string>
+	<SDL_ttf.h>
+
+1521030727 d:\file bai tap\baitap.c\codeblock\breakout\endgame.h
+	"base.h"
+	<string>
+	<SDL_ttf.h>
+
+1521432976 source:d:\file bai tap\baitap.c\codeblock\breakout\endgame.cpp
+	"endgame.h"
+	<sstream>
+	<math.h>
+
